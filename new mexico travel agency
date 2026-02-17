@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <title>Travel Agency Page</title>
+      <meta name="description" content="Find good deals for your next vacation and travel plans"/>
+    </head>
+    <body>
+      <h1>Take a trip through New Mexico</h1>
+      <p>Enjoy an amazing trip through the United States most underrated state to explore its nature and festivities
+      <h2>Packages</h2>
+        <p>Look at what we have in store for you! Good deals and more!</p>
+        <ul>
+          <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</li>
+        </a>
+          <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</li>
+        </a>
+        </ul>
+        <h2>Top Itineraries</h2>
+       
+<figure>
+  <a href="https://graybillanddowns.com/blogs/culture/albuqueque-international-balloon-fiesta-albuquerque-new-mexico" target ="_blank">
+  <img src="https://graybillanddowns.com/cdn/shop/articles/HOT_AIR_BALLOON.jpg?v=1633132692" alt="hot air balloons">
+  </a>
+  <figcaption>Balloon Fiesta</figcaption>
+  </figure>     
+<figure>
+  <a href="https://www.aarp.org/travel/vacation-ideas/outdoors/white-sands-national-park/" target="_blank">
+  <img src="https://cdn.aarp.net/content/dam/aarp/travel/national-parks/2022/11/1140-white-sands-park-dunes.jpg" alt="white sand">
+  </a>
+  <figcaption>White Sands National Park</figcaption>
+  </figure>
+<figure>
+  <a href="https://blog.campingworld.com/campgrounds-travel/camping-worlds-guide-to-rving-carlsbad-caverns-national-park/" target="_blank">
+  <img src="https://marketing.rvs.com/cwblog/uploads/2021/12/11233415/why-visit-guide-to-rving-carlsbad-caverns-national-park-2021-11-Photo-by-Doug-Meek-via-Shutterstock.jpg" alt="cavern">
+  </a>
+  <figcaption>Carlsbad Caverns National Park</figcaption>
+  </figure>
+<!--all images are not owned by me, please click on them to visit the websites :)-->
+</body>
+</html>
