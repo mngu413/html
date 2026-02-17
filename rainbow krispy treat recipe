@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Rainbow Krispy Treats</title>
+  <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Rainbow Krispy Treats</h1>
+    <p>This recipe is very simple to make that an amateur chef such as myself can make it with their eye's closed.</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>1 box of cereal (9-12 oz)</li>
+      <li>1 bag of marshmallows (10 oz)</li>
+      <li>6 tbsp unsalted butter</li>
+      <li>1/2 tsp salt</li>
+      <li>1/2 tsp vanilla extract</li>
+      </ul>
+      <h2>Instructions</h2>
+      <ol>
+        <li>Turn your stove onto medium-low</li>
+        <li>Melt your butter</li>
+        <li>Add in your bag of marshmallows and turn the heat off once it is all melted</li>
+        <li>Add in vanilla extract and salt to adjust the taste</li>
+        <li>Add all of your cereal and mix it into the mixture</li>
+        <li>Pour your mixture into a 9x12 pan</li>
+        <li>Wait 30 minutes until the krispy sets and you are ready to serve</li>
+      <a href="https://www.madewithhappy.com/best-rainbow-rice-crispy-treats/" target="_blank">
+        <img src="https://www.madewithhappy.com/wp-content/uploads/Rainbow-Crispy-Treats-7.jpg" alt="Rainbow Crispy Treats">
+        </a>
+      <!--the image linked is not owned by me, it belongs to Alli Ward, please click on the image and check her site out! :)-->
+</body>
+</html>
