@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>Best Anime Fights</h1>
+    <p>Do you want to see the most epic anime fights of all time? Prepare yourself when you check all these battles out!</p>
+    <section>
+        <h2>Naruto vs. Sasuke: The Final Battle</h2>
+        <p>Naruto and Sasuke battle it out at the Final Valley, also the place where they first fought each other, and will eventually be the last one.</p>
+        <iframe src="https://youtu.be/qi2rByJed-E?si=Xr8tSVOa8s5vMop8" title="Naruto and Sasuke's Last Battle" height="315" width="560"></iframe>
+        </section>
+    <section>
+        <h2>Yuji vs. Mahito: Shibuya Incident Arc </h2>
+        <p>After Todo's last boogie woogie, Yuji lands a blow against Mahito, but what transpires after would be Mahito's demise.</p>
+        <iframe src="https://youtu.be/FkgAySNPxEg?si=zUBOVrsFD0FliZel" title="Yuji vs. Mahito Final Fight" height="315" width="560"></iframe>
+        </section>
+    <section>
+        <h2>Tengen vs. Gyutaro: Entertainment District</h2>
+        <p>The battle against Upper Rank 6 almost appears to be a loss for the demon slayers, but suddenly, Tengen is back in action.</p>
+        <iframe src="https://youtu.be/wKqmEKkoDx0?si=gibl9KlYpWdLpt9W" title="Tengen vs Gyutaro Final Fight" height="315" width="560"></iframe>
+        </section>
+</main>
+</body>
+
+</html>
