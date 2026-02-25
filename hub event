@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+    <h1>Event Hub</h1>
+    <nav><ul>
+        <li>
+            <a href="#upcoming-events">Upcoming Events</a>
+            </li>
+        <li>
+            <a href="#past-events">Past Events</a>
+            </li>
+    </nav>
+</header>
+<main>
+    <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <article>
+            <h3>Netflix Watch Party</h3>
+            <p>Come join us and binge watch the top 10 hits that are currently on Netflix! We have free popcorn and soda!</p>
+            <p>Date: March 7th, 2026</p>
+        </article>
+        <article>
+            <h3>Bingo Night</h3>
+            <p>Do you want to try your luck and win a special price? Join us and defeat your competitors at a game of bingo!</p>
+            <p>Date: March 14th, 2026</p>
+        </article>
+    </section>
+    <section id="past-events">
+        <h2>Past Events</h2>
+        <article>
+            <h3>Pokemon Card Trade</h3>
+            <p>Do you have Pokemon cards that you don't want? Come meet other card collectors and trade them in!</p>
+            <p>Date: February 24th, 2026</p>
+            <image src="https://i.guim.co.uk/img/media/ebdb3fc2ed9c2ff4c7dda6f5686d486724f38765/0_205_3072_1843/master/3072.jpg?width=1900&dpr=1&s=none&crop=none" alt="people trading pokemon cards" width=570 height=342>
+        </article>
+        <article>
+            <h3>Singing Contest</h3>
+            <p>Who is gonna be the best singer in this room? Will you be the one to reign champion? Come sing and be the one!</p>
+            <p>Date:January 31st, 2026</p>
+            <image src="https://www.careersinmusic.com/wp-content/uploads/2018/11/singing-competition.jpg" alt="guy singing behind microphone" width=570 height=342>"
+</body>
+        </article>
+</main>
+</html>
