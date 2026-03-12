@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>The Handmaid's Tale</td>
+        <td>Margaret Atwood</td>
+        <td>Dystopian</td>
+        <td>1985</td>
+      </tr>
+      <tr>
+        <td>Fahrenheit 451</td>
+        <td>Ray Bradbury</td>
+        <td>Dystopian</td>
+        <td>1953</td>
+      </tr>
+      <tr>
+        <td>The Diary of a Young Girl</td>
+        <td>Anne Frank</td>
+        <td>Autobiography</td>
+        <td>1947</td>
+      </tr>
+      <tr>
+        <td>Of Mice and Men</td>
+        <td>John Steinbeck</td>
+        <td>Tragedy</td>
+        <td>1937</td>
+      </tr>
+      <tr>
+        <td>To Kill a Mockingbird</td>
+        <td>Harper Lee</td>
+        <td>Coming of Age</td>
+        <td>1960</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books: 5</td>
+      </tr>
+    </tfoot>
+
+</body>
+
+</html>
