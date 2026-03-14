@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+<h1 id="title">Optional Survey</h1>
+<p id="description">This survey is completely optional! Feel free to complete this form in your own time.</p>
+
+<form id="survey-form">
+  <fieldset>
+    <legend>Personal Information</legend>
+    <label id="name-label">Name</label>
+    <input required id="name" type="text" placeholder="Enter your name"/>
+    <label id="email-label">Email</label>
+    <input required id="email" type="email" placeholder="Enter your email"/>
+    <label id="number-label">Age (optional)</label>
+    <input id="number" type="number" min="1" max="150" placeholder="Age"/>
+  </fieldset>
+
+  <fieldset>
+    <legend>Did you enjoy taking this survey?</legend>
+    <select id="dropdown">
+      <option value="yes">Yes</option>
+      <option value="no">No</option>
+    </select>
+  </fieldset>
+
+  <fieldset>
+    <legend>Are you sure?</legend>
+    <input id="yes-option" type="radio" value="yes" name="yes"/>
+    <label for="yes-option">Yes</label>
+    <input id="no-option" type="radio" value="no" name="yes"/>
+    <label for="no-option">No</label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Where do you get your news?</legend>
+    <label for="social-media">Social Media</label>
+    <input id="social-media" type="checkbox" value="social media"/>
+    <label for="people">Other People</label>
+    <input id="people" type="checkbox" value="people"/>
+  </fieldset>
+
+  <fieldset>
+    <legend>Why?</legend>
+    <textarea cols="50" rows="2"></textarea>
+  </fieldset>
+
+  <button id="submit">Submit</button>
+</form>
+
+  </body>
+</html>
