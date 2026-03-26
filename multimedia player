@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multimedia Player</title>
+</head>
+
+<body>
+  <h1>Song of the Day</h1>
+  <section>
+    <h2>BTS - Into the Sun</h2>
+    <audio controls aria-label="a whistle plays in the beginning and a robotic voice begins to sing"> 
+      <source src="https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3" type="audio/mpeg">
+      </audio>
+    <!-- The source file is not the actual song -->
+    </section>
+
+    <section>
+      <h2>The Solar System</h2>
+      <video controls width="300" aria-label="a slideshow of each planet and star in the solar system">
+        <source src="https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.mp4" type="video/mp4">
+        <!-- The source file is not the actual video -->
+        <track src="https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.vtt" kind="captions" srclang="en" label="English">
+        </video>
+        </section>
+    
+    <section>
+      <h2>Transcript</h2>
+      <p>The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start.</p>
+      </section>
+    
+</body>
+
+</html>
