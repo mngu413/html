@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Business Card</title>
+    <link href="styles.css" rel="stylesheet"/>
+</head>
+
+<body>
+    <div class="business-card">
+   <img class="profile-image" src="https://m.media-amazon.com/images/I/51zj25MxeiL.jpg" alt="rubber duck"/>
+   <p class="full-name">Bob Smith</p><p class="designation">Web Developer</p><p class="company">Go Go Ducky</p>
+   <hr>
+   <p>BobSmith@gmail.com</p><p>(123) 456-7890</p>
+   <a class="portfolio-link" href="https://google.com">Portfolio</a>     
+<hr>
+<div class="social-media">
+    <h2>Connect with me</h2>
+    <a href="https://x.com">Twitter</a>
+    <a href="https://linkedin.com">LinkedIn</a>
+    <a href="https://github.com">GitHub</a>
+    </div>
+</div>
+</body>
+
+/*CSS*/
+body {
+  background-color: rosybrown;
+  font-family: Arial, sans-serif;
+}
+
+.business-card {
+  width: 300px;
+  background-color: lemonchiffon;
+  padding: 20px;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-image {
+  max-width: 100%;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+</html>
